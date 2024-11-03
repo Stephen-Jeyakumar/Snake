@@ -138,3 +138,4 @@ while True:
 	pen.write('Score: {} High Score: {}'.format(score, high_score), align='center', font=('Courier', 22, 'normal'))
 
 	time.sleep(0.15)
+
